@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/studyclubhimsika2024/static/css/main.0cf7343b.css",
+    "main.js": "/studyclubhimsika2024/static/js/main.1757abd5.js",
+    "static/js/453.98cf5019.chunk.js": "/studyclubhimsika2024/static/js/453.98cf5019.chunk.js",
+    "static/media/BITBIT.png": "/studyclubhimsika2024/static/media/BITBIT.c98128d3d3cbf22d47d1.png",
+    "static/media/profil.jpeg": "/studyclubhimsika2024/static/media/profil.0969973f953dcd297a8c.jpeg",
+    "static/media/Fdfest.png": "/studyclubhimsika2024/static/media/Fdfest.05706269b2e08f21ab6a.png",
+    "static/media/Kalkulator.png": "/studyclubhimsika2024/static/media/Kalkulator.2b4ee34c80c36ed22947.png",
+    "index.html": "/studyclubhimsika2024/index.html",
+    "main.0cf7343b.css.map": "/studyclubhimsika2024/static/css/main.0cf7343b.css.map",
+    "main.1757abd5.js.map": "/studyclubhimsika2024/static/js/main.1757abd5.js.map",
+    "453.98cf5019.chunk.js.map": "/studyclubhimsika2024/static/js/453.98cf5019.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cf7343b.css",
+    "static/js/main.1757abd5.js"
+  ]
+}
